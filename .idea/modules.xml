@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AspectRatio.iml" filepath="$PROJECT_DIR$/AspectRatio.iml" />
+      <module fileurl="file://C:\Users\Burhanuddin\StudioProjects\AspectRatioExample\AspectRatio.iml" filepath="C:\Users\Burhanuddin\StudioProjects\AspectRatioExample\AspectRatio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AspectRatioExample.iml" filepath="$PROJECT_DIR$/.idea/AspectRatioExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Burhanuddin\StudioProjects\AspectRatioExample\app\app.iml" filepath="C:\Users\Burhanuddin\StudioProjects\AspectRatioExample\app\app.iml" />
     </modules>
   </component>
 </project>

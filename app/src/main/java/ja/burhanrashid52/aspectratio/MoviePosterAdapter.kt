@@ -31,25 +31,19 @@ class MoviePosterAdapter : RecyclerView.Adapter<MoviePosterAdapter.ViewHolder>()
     @SuppressLint("CheckResult")
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
 
-        with(mMoviePosters[position]) {
+        val poster = mMoviePosters[position]
 
-            holder.mMovieName.text = name
+        holder.mMovieName.text = poster.name
 
-            Glide.with(holder.itemView.context)
-                    .setDefaultRequestOptions(requestOptions)
-                    .load(imageUrl)
-                    .into(holder.mImgPoster)
+        Glide.with(holder.itemView.context)
+                .setDefaultRequestOptions(requestOptions)
+                .load(poster.imageUrl)
+                .into(holder.mImgPoster)
 
-            with(set) {
-                @SuppressLint("DefaultLocale")
-                val posterRatio = String.format("%d:%d", width, height)
-                clone(holder.mConstraintLayout)
-                setDimensionRatio(holder.mImgPoster.id, posterRatio)
-                applyTo(holder.mConstraintLayout)
-            }
-        }
-
-
+        val posterRatio = String.format("%d:%d", poster.width, poster.height)
+        set.clone(holder.mConstraintLayout)
+        set.setDimensionRatio(holder.mImgPoster.id, posterRatio)
+        set.applyTo(holder.mConstraintLayout)
     }
 
     override fun getItemCount(): Int {
