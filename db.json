@@ -1,13 +1,15 @@
 {
-  "status":200,
-  "source":"Success",
-  "movies": [
-    {
-      "id": 1,
-      "title": "Game of Thrones",
-      "description":"Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels, the first of which is A Game of Thrones. It is filmed in Belfast and elsewhere in the United Kingdom, Canada, Croatia, Iceland, Malta, Morocco, Spain, and the United States. The series premiered on HBO in the United States on April 17, 2011, and its seventh season ended on August 27, 2017. The series will conclude with its eighth season premiering in 2019",
-      "poster":"https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/242556.png?alt=media&token=4f2f9eb9-03ad-4411-be09-018f355464d4",
-      "videoUrl":"https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/Game%20of%20Thrones%20Season%207-%20Official%20Trailer%20(HBO).mp4?alt=media&token=0bd8a226-bf32-460e-bfc0-ae0ade28c2a5"
-    }
-  ]
+  "movieslist": {
+    "status": 200,
+    "source": "Success",
+    "movies": [
+      {
+        "id": 1,
+        "title": "Game of Thrones",
+        "description": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels, the first of which is A Game of Thrones. It is filmed in Belfast and elsewhere in the United Kingdom, Canada, Croatia, Iceland, Malta, Morocco, Spain, and the United States. The series premiered on HBO in the United States on April 17, 2011, and its seventh season ended on August 27, 2017. The series will conclude with its eighth season premiering in 2019",
+        "poster": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/242556.png?alt=media&token=4f2f9eb9-03ad-4411-be09-018f355464d4",
+        "videoUrl": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/Game%20of%20Thrones%20Season%207-%20Official%20Trailer%20(HBO).mp4?alt=media&token=0bd8a226-bf32-460e-bfc0-ae0ade28c2a5"
+      }
+    ]
+  }
 }
