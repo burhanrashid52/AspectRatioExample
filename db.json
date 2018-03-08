@@ -1,5 +1,4 @@
 {
-  "movieslist": {
     "status": 200,
     "source": "Success",
     "movies": [
@@ -11,5 +10,4 @@
         "videoUrl": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/Game%20of%20Thrones%20Season%207-%20Official%20Trailer%20(HBO).mp4?alt=media&token=0bd8a226-bf32-460e-bfc0-ae0ade28c2a5"
       }
     ]
-  }
 }
