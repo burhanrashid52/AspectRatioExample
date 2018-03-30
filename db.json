@@ -16,6 +16,13 @@
         "description": "Walter White , a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse.",
         "poster": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/breaking-bad-ps-vr.jpg?alt=media&token=d0ce3269-eb12-4597-b442-2a8e29d08817",
         "videoUrl": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/Breaking%20Bad%20Trailer%20(First%20Season).mp4?alt=media&token=d36b0ba3-98da-4695-90ae-d9c449d8284a"
+      },
+        {
+        "id": 3,
+        "title": "Stranger Things",
+        "description": "Stranger Things is an American science fiction-horror web television series created, written, directed and co-executive produced by The Duffer Brothers, as well as co-executive produced by Shawn Levy and Dan Cohen. The first season, released in July 2016, stars Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono and Matthew Modine, with Noah Schnapp and Joe Keery in recurring roles",
+        "poster": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/stranger_things-HD.jpg?alt=media&token=b156267d-07a9-4f22-a8d8-fc2ff6863bf5",
+        "videoUrl": "https://firebasestorage.googleapis.com/v0/b/rashiddemo-2eca3.appspot.com/o/stranger_things_trailer.mp4?alt=media&token=4fec1399-77d3-448f-8e98-91aaa3426d38"
       }
     ]
   }
